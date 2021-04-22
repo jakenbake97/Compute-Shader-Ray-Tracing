@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Ray Tracer.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Programming Adventures\Unity Projects\Ray Tracer\.idea\.idea.Ray Tracer\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
